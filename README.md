@@ -7,4 +7,8 @@ EverythingPython
 
 14-2-2018 Notebook 3 -  ## (Tesla stock data scraped from yahoo) Python Programming for Finance, Data handling and Graphing, Data Manipulation 
 
-15-2-2018
+25-2-2018 Notebook 4- ## Lines, Legendtitles， Label, bar charts and historgram, scatter plot, stack plot, pie chart
+
+26-2-2018 Notebook 5 - 
+
+
